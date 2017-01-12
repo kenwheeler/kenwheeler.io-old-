@@ -5,8 +5,7 @@ import styles from './home.css';
 
 const Home = () => (
   <div>
-    <h1 className={styles.heading}>WELCOME TO YOUR APP</h1>
-    <Link to="/page2">Go to page 2</Link>
+    <h1 className={styles.heading}>Relax, it's coming.</h1>
   </div>
 );
 
